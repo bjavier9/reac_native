@@ -1,1 +1,1 @@
-import * from "./screenName";
+export * from "./screenName";
