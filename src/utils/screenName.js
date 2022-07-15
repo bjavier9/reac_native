@@ -23,7 +23,11 @@ const accountStack = {
     tab:'AccountTab',
     title:'Account',
     stack1_name:'Account',
-    stack1_title:'Account'
+    stack1_title:'Cuenta', 
+    stack2_name:'Login',
+    stack2_title:'Iniciar sesion',
+    stack3_name:'Register',
+    stack3_title:'Registrar usuario'
 }
 
 const restaurantsStack = {
