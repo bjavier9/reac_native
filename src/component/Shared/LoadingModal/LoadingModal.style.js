@@ -6,8 +6,8 @@ export const styles = StyleSheet.create({
         width: 100,
         backgroundColor:"#fff",
         borderColor:"#00a680",
-        borderWidth:2,
-        borderRadius:10,
+        borderWidth:1,
+        borderRadius:20,
     },
     view:{
         flex:1,
