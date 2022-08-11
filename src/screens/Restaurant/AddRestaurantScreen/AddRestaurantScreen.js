@@ -1,8 +1,7 @@
 import { Text, View } from 'react-native'
 import React from 'react'
-
-export  function AddRestaurantScreen() {
-
+import {styles} from './AddRestaurantScreen.styles'
+export function AddRestaurantScreen() {
     return (
       <View>
         <Text>AddRestaurantScreen</Text>
