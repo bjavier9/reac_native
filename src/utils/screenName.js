@@ -33,10 +33,16 @@ const accountStack = {
 const restaurantsStack = {
     tab:'RestaurantsTab',
     title:'Restaurants',
-    stack1_name:'Restaurant',
-    stack1_title:'Restaurant',
+    stack1_name:'Restaurants',
+    stack1_title:'Restaurants',
     stack2_name:'AddRestaurant',
-    stack2_title:'Add Restaurant'
+    stack2_title:'Add Restaurant',
+    stack3_name:'AddReviewRestaurant',
+    stack3_title:'Add Review Restaurant',
+    stack4_name:'Restaurant',
+    stack4_title:'Restaurant',
+    restaurant: "Restaurant",
+    addReviewRestaurant: "AddReviewRestaurant",
 }
 
 export const screen = {

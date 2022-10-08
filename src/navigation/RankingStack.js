@@ -1,5 +1,5 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack"
-import { RankingScreen } from "../screens/Ranking/RankingScreen"
+import { RankingScreen } from "../screens/RankingScreen"
 import { screen} from "../utils"
 
 

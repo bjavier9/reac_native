@@ -1,5 +1,5 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack"
-import { FavoritesScreen } from "../screens/Favorites/FavoritesScreen"
+import { FavoritesScreen } from "../screens/FavoritesScreen"
 import { screen} from "../utils"
 
 
